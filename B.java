@@ -1,4 +1,4 @@
-public class A{
+public class B{
 	public display(){
 		System.out.println("B created");
 		}
